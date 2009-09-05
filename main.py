@@ -1,7 +1,8 @@
 import tokenizer
-import spec
-from spec import * 
 from pyspec import _MethodWrap
+
+from spec import * 
+
 
 #pyspec module should find all classes and apply this shitty bootstrap
 
